@@ -1,3 +1,3 @@
 module github.com/tdmnco/go-nordicir-structs
 
-go 1.14
+go 1.15
