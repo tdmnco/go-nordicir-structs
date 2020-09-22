@@ -13,6 +13,7 @@ type CompanyAnnouncement struct {
 	Content         Content   `json:"content,omitempty"`
 	Country         string    `json:"country,omitempty"`
 	ID              string    `json:"id,omitempty"`
+	Identifier      string    `json:"identifier,omitempty"`
 	LogoURL         string    `json:"logoUrl,omitempty"`
 	Paging          Paging    `json:"paging,omitempty"`
 	PublicationDate time.Time `json:"publicationDate,omitempty"`
