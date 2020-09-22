@@ -1,4 +1,4 @@
-# Structs for Nordic IR company announcements
+# Nordic IR Structs
 
 - [About](#about)
 - [Getting Help](#getting-help)
@@ -7,7 +7,7 @@
 
 This repository contains common structs in Go for working with Nordic IR company announcements that are typically fetched from the Nordic IR endpoints and used in relation to company announcements sent to stock exchanges, financial institutions etc.
 
-[↑ Back to top](#structs-for-nordic-ir-company-announcements)
+[↑ Back to top](#nordic-ir-structs)
 
 ## Getting Help
 
@@ -15,7 +15,7 @@ We believe in an open and welcoming community for all. Please post your question
 
 Note that if your question has general relevance, it might be worth sharing with others.
 
-[↑ Back to top](#structs-for-nordic-ir-company-announcements)
+[↑ Back to top](#nordic-ir-structs)
 
 ---
 
